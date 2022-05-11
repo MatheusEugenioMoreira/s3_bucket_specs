@@ -1,0 +1,14 @@
+{
+  "name": "s3_bucket_specs",
+  "version": "0.0.1",
+  "description": "This project will help you to know specs from s3 bucket (ex: total size, num objs, etc...)",
+  "main": "index.js",
+  "repository": "https://github.com/MatheusEugenioMoreira/s3_bucket_specs.git",
+  "author": "Matheus Eugenio Moreira - 2022",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "aws-sdk": "^2.1132.0",
+    "readline-sync": "^1.4.10"
+  }
+}
